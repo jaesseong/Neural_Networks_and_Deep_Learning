@@ -8,11 +8,15 @@
   3. Structuring your Machine Learning project
   4. Convolutional Neural Networks (CNN)
   5. Natural Language Processing: Building sequence models (RNN, LSTM)
-  
+
 # What is a Neural Network?
   - size (x) -> neuron -> price (y) : single neuron
   - Neural Network는 입력 값들의 특징들을 자유롭게 반영한 각각의 unit을 예측하고 또 새로운 층의 unit들을 예측하는 것을 반복적으로 수행한 후 결과를 예측하는 것
     ![Neural Network](./image/1weeks_001.png)
   - Neural Network에서는 입력층<sup>input layer</sup>의 모든 특징들과 숨겨진 층<sup>hidden layer</sup>의 모든 유닛들이 연결되어있다.
-  
+
 # Supervised Learning with Neural Networks
+ - Structured Data
+
+ - Unstructured Data
+# Why is Deep Learning taking off?
